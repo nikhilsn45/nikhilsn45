@@ -1,8 +1,8 @@
-#About Me:
+# About Me:
 I am working on Java springboot microservices and related backend technologies,<br>Ready to collaborate with the projects
 
 
-##Socials:
+# Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Javatechbean) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/nikhil-nakod-b13281152) 
 
 # Tech Stack:
